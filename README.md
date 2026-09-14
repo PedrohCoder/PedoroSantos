@@ -16,7 +16,7 @@
 ## <center> ↳   𝙻𝚊𝚗𝚐𝚞𝚊𝚐𝚎𝚜 𝚊𝚗𝚍 𝚝𝚘𝚘𝚕𝚜:
 <h4> 📍 Front-end: </h4>
 <div align="left">
-    <img src="https://skillicons.dev/icons?i=react,next,sass,css,html,bootstrap,javascript,electron" />
+    <img src="https://skillicons.dev/icons?i=react,next,tailwind,sass,css,html,bootstrap,javascript,electron" />
 </div>
 <h4> 📍 Back-end: </h4>
 <div align="left">
