@@ -6,7 +6,7 @@
 
 <p>
   Hide env files from your agents <br><br>
-  <strong>Tech stack:</strong>Rust, ShellScript
+  <strong>Tech stack:</strong> Rust, ShellScript
 </p>
 
 
