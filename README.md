@@ -1,4 +1,13 @@
 ## <center> ↳   𝙿𝚛𝚘𝚓𝚎𝚌𝚝𝚜:
+<h3>· Hidenv:</h4>
+
+🔗 <strong><a href="https://github.com/1magdev/hidenv.git" target="_blank">Check repository</a></strong>
+<br/>
+
+<p>
+  Hide env files from your agents <br><br>
+  <strong>Tech stack:</strong>Rust, ShellScript
+</p>
 
 
 <h3>· Wordle Real-time PVP:</h4>
